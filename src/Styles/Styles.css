@@ -1,0 +1,23 @@
+/*CSS REST*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Poppins";
+}
+#root {
+	background: #141414;
+	height: 100vh;
+	color: #fff;
+}
+/*STYLING USERLIST*/
+h1 {
+	font-size: 50px;
+}
+ul {
+	list-style: circle;
+	font-size: 30px;
+}
